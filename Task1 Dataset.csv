@@ -1,0 +1,6 @@
+User ID,Gender,Age,Activity Level,Location,App Sessions,Distance Travelled (km),Calories Burned
+1,Male,30,Active,Urban,100,50,500
+2,Female,25,Moderate,Rural,50,20,200
+3,Male,40,Sedentary,Suburban,200,100,1000
+4,Female,35,Active,Urban,150,75,750
+5,Male,28,Moderate,Rural,75,30,300
